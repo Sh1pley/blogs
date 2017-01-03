@@ -29,12 +29,12 @@ Warning: '.. previous version of constant was here..' Ok. You get a message and 
 Not constant anymore..
 
 Another thing:
-![How about a set of data, and Array](../images/Screen Shot 2016-12-30 at 11.33.38 AM.png)
+![How about a set of data, and Array](https://github.com/Sh1pley/blogs/blob/master/images/Screen%20Shot%202016-12-30%20at%2011.33.38%20AM.png)
 No warning message.. Altered the constant anyway. If done on purpose, great.
 On accident.. Not so great. Probably gonna get some awesome errors. Probably.
 
 More things:
-![.pop](../images/Screen Shot 2016-12-30 at 11.34.33 AM.png)
+![.pop](https://github.com/Sh1pley/blogs/blob/master/images/Screen%20Shot%202016-12-30%20at%2011.34.33%20AM.png)
 Pop/Shift/Unshift all the other things. Will do what you expect them to do.
 And the best part, no warnings. Ruby gives you the power, lets you get as weird as you want.
 
@@ -52,7 +52,7 @@ In comes Freeze:
 #### This method returns self.
 
 In practice: 
-![.freeze](../images/Screen Shot 2016-12-30 at 11.37.21 AM.png)
+![.freeze](https://github.com/Sh1pley/blogs/blob/master/images/Screen%20Shot%202016-12-30%20at%2011.37.21%20AM.png)
 This becomes my personal expected behavior. Allows you to define and call your constant set of date.
 And any of the weird stuff you want to try and do to said data, gives you a nice error that says nope.
 
