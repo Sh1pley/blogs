@@ -16,7 +16,7 @@ So between the two defiitions, we see some firm rules:
 - A constant's name begins with an uppercase character/or all uppercase characters.
 
 Through practice we can see it in action:
-![definining/calling a constant](../images/Screen Shot 2016-12-30 at 11.26.02 AM.png)
+![definining/calling a constant](https://github.com/Sh1pley/blogs/blob/master/images/Screen%20Shot%202016-12-30%20at%2011.26.02%20AM.png)
 Easy enough, can define your data in the constant and use namespacing to recall it. Nice.
 
 And then this '_should_' rule:
@@ -24,7 +24,7 @@ And then this '_should_' rule:
 - It should be assigned a value at most once..
 
 In practice:
-![altering a constant](../images/Screen Shot 2016-12-30 at 11.26.17 AM.png)
+![altering a constant](https://github.com/Sh1pley/blogs/blob/master/images/Screen%20Shot%202016-12-30%20at%2011.26.17%20AM.png)
 Warning: '.. previous version of constant was here..' Ok. You get a message and it still takes the change.
 Not constant anymore..
 
